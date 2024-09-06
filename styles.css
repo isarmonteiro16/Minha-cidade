@@ -1,0 +1,34 @@
+body{
+    background-color: blueviolet;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #03010c;
+    color: white;
+    color: blueviolet;
+    width: flex;
+}
+   
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main{
+    text-decoration:center;
+    max-width: 90%;
+}
+img{
+    max-width: 600px;
+    max-height: 300px;
+    margin-left: 400px;
+}
